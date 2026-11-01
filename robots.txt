@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://salvocanci.github.io/sitemap.xml
+Sitemap: https://salvocanci.github.io/affitti-brevi-forfettario-2026/sitemap.xml
